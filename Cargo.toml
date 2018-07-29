@@ -1,0 +1,6 @@
+[package]
+name = "fallout-builder"
+version = "0.1.0"
+authors = ["Shane Sveller <shanesveller@gmail.com>"]
+
+[dependencies]
